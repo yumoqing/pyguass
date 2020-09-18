@@ -7,6 +7,11 @@ A wrap guass 200 java jdbc driver for python
 * JayDeBeApi
 * JAVA SDK 1.8
 
+## Download and installation
+```
+pip install git+https://github.com/yumoqing/pyguass
+```
+
 ## Usage
 ```
 import pyguass
