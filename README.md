@@ -1,7 +1,7 @@
 # pyguass
 A wrap guass 200 java jdbc driver for python
 
-## Dependent
+## Dependence
 * typing_extensions
 * JPype1
 * JayDeBeApi
